@@ -1,2 +1,2 @@
 # MatchingGame
-Matching Game built for coursera course (HTML, CSS, and JavaScript)
+Matching Game built for Coursera course (HTML, CSS, and JavaScript)
